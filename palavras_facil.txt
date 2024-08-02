@@ -1,0 +1,10 @@
+gato
+casa
+carro
+sol
+mesa
+fogo
+flor
+bola
+rio
+livro
